@@ -1,0 +1,38 @@
+/*
+* Name Sarah Barrosse-Antle
+* Due Date 2/4/19
+* Project Name and Description: Intro to CSS
+*/
+
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body atrributes here */
+
+Body {
+    background-color: aliceblue;
+    
+
+}
+h1 {
+        background-color: white; /*color for background*/
+        color: lightpink; /*color of text*/
+    }
+p {
+    /*type selector ALL paragraphs*/
+    color: darkcyan;
+}
+
+#redText { /* use an id to turn the text red */
+    color: navy;
+    
+}
+
+.greenText { 
+    color: navy;
+}
